@@ -3,9 +3,9 @@
 ## 目录
 
 - [手写代码系列](#手写代码系列)
-  - [实现一个 `JSON.parse()` 和 `JSON.stringify()`](#1. 实现一个 `JSON.parse()` 和 `JSON.stringify()`)
-  - [防抖节流原理并用 js 实现](#2. 防抖节流原理并用 js 实现)
-  - [Promise函数]()
+  - [实现一个 `JSON.parse()` 和 `JSON.stringify()`](#1-实现一个-JSON.parse()-和-JSON.stringify())
+  - [防抖节流原理并用 js 实现](#2-防抖节流原理并用-js-实现)
+  - [Promise函数](./Javascript/Promise.md)
 
 
 
